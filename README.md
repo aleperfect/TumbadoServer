@@ -1,6 +1,6 @@
 
-### `—◉ 👑 ¡Hola! ALEIZN-MD?, CONTACTAME 👑`
-<a href="http://wa.me/+519926216018" target="blank"><img src="https://img.shields.io/badge/Ale-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+### `—◉ 👑 ¡Hola! TUMBADO-MD?, CONTACTAME 👑`
+<a href="http://wa.me/++52156477825698" target="blank"><img src="https://img.shields.io/badge/Ale-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
 ### `—◉ 🖍 LETRA DEL BOT 🖍`
@@ -22,7 +22,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/ALEIZN/Propio
+git clone https://github.com/TUMBADO/Propio
 ```
 
 ```bash

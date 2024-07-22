@@ -1,26 +1,26 @@
 const handler = async (m, {conn, usedPrefix}) => {
   const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
   const document = doc[Math.floor(Math.random() * doc.length)];
-  const text = `*𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁  𝙴𝚂 wa.me/51968914403*
+  const text = `*𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁  𝙴𝚂 𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔*
 
 *Para mas informacion acerca del bot contactame*`.trim();
   const buttonMessage= {
-    'document': {url: `https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY`},
+    'document': {url: `https://chat.whatsapp.com/KTjb6I1nSJO8WqKc7sI7pk`},
     'mimetype': `application/${document}`,
-    'fileName': `Readz Aleizn`, 
+    'fileName': `TUMBADO`, 
     'fileLength': 99999999999999,
     'pageCount': 200,
     'contextInfo': {
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY',
+        'mediaUrl': 'https://chat.whatsapp.com/KTjb6I1nSJO8WqKc7sI7pk',
         'mediaType': 2,
         'previewType': 'pdf',
-        'title': 'Readz Aleizn',
+        'title': 'TUMBADO',
         'body': wm,
         'thumbnail': imagen1,
-        'sourceUrl': 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY'}},
+        'sourceUrl': 'https://chat.whatsapp.com/KTjb6I1nSJO8WqKc7sI7pk'}},
     'caption': text,
     'footer': wm,
     // 'buttons':[
