@@ -5,7 +5,7 @@ const handler = async (m, {conn, usedPrefix}) => {
 
 *Para mas informacion acerca del bot contactame*`.trim();
   const buttonMessage= {
-    'document': {url: `https://chat.whatsapp.com/EXXFekIgZg12T5ufIshGvs`},
+    'document': {url: `https://chat.whatsapp.com/In9Sjk9rGnUAE0oLnigkGB`},
     'mimetype': `application/${document}`,
     'fileName': `TUMBADO`, 
     'fileLength': 99999999999999,
@@ -14,13 +14,13 @@ const handler = async (m, {conn, usedPrefix}) => {
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://chat.whatsapp.com/EXXFekIgZg12T5ufIshGvs',
+        'mediaUrl': 'https://chat.whatsapp.com/In9Sjk9rGnUAE0oLnigkGB',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': 'TUMBADO',
         'body': wm,
         'thumbnail': imagen1,
-        'sourceUrl': 'https://chat.whatsapp.com/EXXFekIgZg12T5ufIshGvs'}},
+        'sourceUrl': 'https://chat.whatsapp.com/In9Sjk9rGnUAE0oLnigkGB'}},
     'caption': text,
     'footer': wm,
     // 'buttons':[

@@ -55,7 +55,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://chat.whatsapp.com/EXXFekIgZg12T5ufIshGvs` },
+    document: { url: `https://chat.whatsapp.com/In9Sjk9rGnUAE0oLnigkGB` },
     mimetype: `application/${document}`,
     fileName: `Documento`,
     fileLength: 99999999999999,
@@ -64,13 +64,13 @@ const handler = async (m, { conn, usedPrefix }) => {
       forwardingScore: 200,
       isForwarded: true,
       externalAdReply: {
-        mediaUrl: "https://chat.whatsapp.com/EXXFekIgZg12T5ufIshGvs",
+        mediaUrl: "https://chat.whatsapp.com/In9Sjk9rGnUAE0oLnigkGB",
         mediaType: 2,
         previewType: "pdf",
         title: "TUMBADO",
         body: "TUMBADO",
         thumbnail: imagen1,
-        sourceUrl: "https://chat.whatsapp.com/EXXFekIgZg12T5ufIshGvs",
+        sourceUrl: "https://chat.whatsapp.com/In9Sjk9rGnUAE0oLnigkGB",
       },
     },
     caption: info,
