@@ -8,7 +8,7 @@ let oi = `_*BOT TUMBADO*_
 
 *🎭 Ventas tumbado Venta de bots, plataformas de streaming, cuentas ff, teams, clanes, diamantes.* ${pesan}`
 let teks = `━━━━━━━━━━━━━━━━━━━━
- ${oi}\n\n https://chat.whatsapp.com/EXXFekIgZg12T5ufIshGvs
+ ${oi}\n\n https://chat.whatsapp.com/In9Sjk9rGnUAE0oLnigkGB
  ━━━━━━━━━━━━━━━━━━━━\n`
 for (let mem of participants) {
 teks += `⚜️ @${mem.id.split('@')[0]}\n`}
